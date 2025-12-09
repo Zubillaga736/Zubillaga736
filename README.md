@@ -13,7 +13,7 @@ En este espacio compartire mis proyectos y prácticas mientras avanzo en mi form
 ## 🌙 **Sobre mí**
 
 Actualmente estudio el **Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-Me interesa todo lo relacionado con el **desarrollo de software**, **aplicaciones móviles**, **backend**, y la creación de soluciones eficientes con un toque estético en **tono azul-oscuro**.
+Me interesa todo lo relacionado con el **desarrollo de software**, **aplicaciones móviles**, **backend**.
 
 Disfruto aprendiendo nuevas tecnologías y construyendo proyectos que me ayuden a mejorar como programador.
 
